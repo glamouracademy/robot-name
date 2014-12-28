@@ -9,4 +9,8 @@ class Robot
 		@name = letters_name + numbers
 	end
 
+	def reset
+		initialize
+	end
+
 end
