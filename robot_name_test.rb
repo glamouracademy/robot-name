@@ -13,7 +13,6 @@ class RobotTest < MiniTest::Unit::TestCase
   end
 
   def test_different_robots_have_different_names
-    
     assert Robot.new.name != Robot.new.name
   end
 
