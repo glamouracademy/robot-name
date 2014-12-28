@@ -4,5 +4,6 @@ class Robot
 	end
 
 	def name
+	 'aA444'
 	end
 end
